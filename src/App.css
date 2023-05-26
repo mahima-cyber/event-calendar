@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+/* .container {
+  display: flex;
+} */
+
+.sidebar-container {
+  width: 250px;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+/* 
+.calendar-container {
+  flex: 1;
+  padding: 20px;
+  background-color: #fff;
+} */
